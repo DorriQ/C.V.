@@ -4,17 +4,17 @@
 -	Farzane.dorri@gmail.com
 -	Cell: +989122387123
 
-Objectives
+#### Objectives
 -	Looking for a research-based intern position for 2017. I believe my multidisciplinary background along with my experience with Data Centers, Network Infrastructures, Software Design and Programming could be an asset to research at SDN.
 
 
-Education
+#### Education
 -	B.Sc. Computer Software Engineering – University – Tehran – Iran - GPA: 15.36/20
 -	A.S. Computer Software Engineering - Kashan University – Tehran – Iran - GPA: 17:38/20
 -	Technical High School GPA:19/20
 
 
-Area of Interests
+#### Area of Interests
 
 -	Software/Hardware Programming
 -	Software/Application Quality Assurance
@@ -36,7 +36,7 @@ Area of Interests
 
 
 
-Work Experience
+#### Work Experience
 
 -	Software Quality Assurance at Rocket Internet – Romaak (Sanpp) – Summer 2014 ~ present
 
@@ -58,7 +58,7 @@ Language Skills
 	-	IELTS General Overall Band Score: 8
 	-	IELTS Academic Overall Band Score: 7
 
-Skills
+#### Skills
 -	Programming Languages:
 			C, C++, Assembly, VB, PHP, Python, Django, Java, SQL
 
@@ -80,7 +80,7 @@ Vim, Linux, Mac OS X, BSD, Microsoft Windows
 -	TypeSetting:
 Latex, Microsoft Word, iWork Pages
 
-Projects
+#### Projects
 		
 -	Design, Implementation, Deployment and Test of a mobile based application service from scratch in the four following sections:
 -	Server Side
@@ -88,7 +88,7 @@ Projects
 -	Client side for Android devices
 -	Client side for iOS devices
 
-A complete testing system is designed, implemented and deployed for all the sections separately by the test team. Integrity Tests, Unit Tests, Test Cases, Use Cases Scenarios, UI/UX Tests are all designed and implemented and are being done automatically and manually if needed. Python is mostly used for these automations.
+	A complete testing system is designed, implemented and deployed for all the sections separately by the test team. Integrity Tests, Unit Tests, Test Cases, Use Cases Scenarios, UI/UX Tests are all designed and implemented and are being done automatically and manually if needed. Python is mostly used for these automations.
 
 -	Design, Implementation, Deploying and Maintaining an Automated Attendance System Software and a Retail Sale System Software both based on web and Microsoft Windows. These systems needed to have bunch of built in reports, data conversion and data transfer to the new system and database structure.
 
