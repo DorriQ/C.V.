@@ -83,12 +83,12 @@ Latex, Microsoft Word, iWork Pages
 #### Projects
 		
 -	Design, Implementation, Deployment and Test of a mobile based application service from scratch in the four following sections:
--	Server Side
--	Web-based Control/Management station
--	Client side for Android devices
--	Client side for iOS devices
+	-	Server Side
+	-	Web-based Control/Management station
+	-	Client side for Android devices
+	-	Client side for iOS devices
 
-	A complete testing system is designed, implemented and deployed for all the sections separately by the test team. Integrity Tests, Unit Tests, Test Cases, Use Cases Scenarios, UI/UX Tests are all designed and implemented and are being done automatically and manually if needed. Python is mostly used for these automations.
+	-	A complete testing system is designed, implemented and deployed for all the sections separately by the test team. Integrity Tests, Unit Tests, Test Cases, Use Cases Scenarios, UI/UX Tests are all designed and implemented and are being done automatically and manually if needed. Python is mostly used for these automations.
 
 -	Design, Implementation, Deploying and Maintaining an Automated Attendance System Software and a Retail Sale System Software both based on web and Microsoft Windows. These systems needed to have bunch of built in reports, data conversion and data transfer to the new system and database structure.
 
